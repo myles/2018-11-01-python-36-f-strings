@@ -1,4 +1,3 @@
-# Python 3's f-strings
+# Python 3.6's f-strings
 
-The Jupyter Notebook for a talk I gave at 23 October 2018 Python Toronto Meetup.
-
+The Jupyter Notebook for a talk I gave at Pollyhack on 1 November 2018.
